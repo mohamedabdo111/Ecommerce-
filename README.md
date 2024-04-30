@@ -1,3 +1,5 @@
+<h1>Note : BackEnd isn't on an online server </h1>
+
 Ecommerce platform ready for mobile or web E-shops, powered by API ! Here's a glimpse of what it offers:
 
 1️⃣ Authentication: Seamlessly manage user accounts with features like signup, login, forget password, reset password, verify password, and logout.
