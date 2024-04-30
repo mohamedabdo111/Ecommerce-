@@ -1,4 +1,3 @@
-<h1>Note : BackEnd isn't on an online server </h1>
 
 Ecommerce platform ready for mobile or web E-shops, powered by API ! Here's a glimpse of what it offers:
 
@@ -17,3 +16,4 @@ Ecommerce platform ready for mobile or web E-shops, powered by API ! Here's a gl
 7️⃣ Media Management: Seamlessly handle image uploads and processing, including support for multiple image uploads (file uploading).
 
 Ready to revolutionize the E-commerce experience? Let's connect and explore more about this exciting project!
+<h4>Note : BackEnd isn't on an online server </h4>
